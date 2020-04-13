@@ -17,8 +17,11 @@ This plugin is a proprietary "part" of the driver which HP doesn't open-source. 
 
 
 worked with ubuntu 18.04
+
 https://askubuntu.com/questions/1056077/how-to-install-latest-hplip-on-my-ubuntu-to-support-my-hp-printer-and-or-scanner
 
 Useful Links:
+
 https://developers.hp.com/hp-linux-imaging-and-printing/gethplip
+
 https://developers.hp.com/hp-linux-imaging-and-printing/plugins
